@@ -1,12 +1,21 @@
-# Project Alpha
+# 🚀 Project Alpha
 
-Welcome to my learning journey.
+Welcome to my journey of becoming an AI + Data + Finance Engineer.
 
 ## Goals
 
 - Learn Python
 - Learn Data Analysis
 - Learn Machine Learning
-- Combine AI with Finance
+- Apply AI to Finance
+- Build real-world projects
+
+## Progress
+
+- [ ] Python Basics
+- [ ] Data Analysis
+- [ ] SQL
+- [ ] Machine Learning
+- [ ] Financial Projects
 
 Started: July 2026
